@@ -254,7 +254,7 @@ table {
 .ul1 {
   list-style:none;
   padding-right:30px;
-  text-align:right;
+  text-align:center;
   background-color:var(--color-green);
   color:white;
   line-height:25px;
