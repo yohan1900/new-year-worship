@@ -206,10 +206,10 @@ p {
 }
 
 .slogun {
-  font-size: 30px;
+  font-size: 25px;
 }
 .active {
-  font-size: 23px;
+  font-size: 20px;
 }
 
 .major__description {
@@ -387,6 +387,7 @@ table {
 .skill__description {
   display: flex;
   justify-content: space-between;
+  text-align: left;
 }
 
 .skill__bar {
